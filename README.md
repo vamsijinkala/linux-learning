@@ -11,4 +11,4 @@
 
 * But some severs I got some errors then I have went to google I have typed that errors I have found solution I resolved that errors.
 
-   ```![Screenshot_20221210_135015](https://user-images.githubusercontent.com/119585700/206840997-1de67117-3ac3-4880-be43-722e6f0461e0.png)```
+   ``![Screenshot_20221210_135015](https://user-images.githubusercontent.com/119585700/206840997-1de67117-3ac3-4880-be43-722e6f0461e0.png)``
